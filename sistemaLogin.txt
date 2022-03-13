@@ -1,2 +1,2 @@
-Usuario:
-Senha:
+Digite seu Usuario ou e-mail:
+Digite sua Senha:
